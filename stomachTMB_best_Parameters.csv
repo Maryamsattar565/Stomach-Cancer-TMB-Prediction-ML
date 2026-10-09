@@ -1,0 +1,18 @@
+Model,Parameter,Best_Value
+Elastic Net,variance__threshold,1e-05
+Elastic Net,select_kbest__k,500.0
+Elastic Net,model__l1_ratio,0.05
+Elastic Net,model__alpha,0.46415888336127775
+Random Forest,variance__threshold,0.0
+Random Forest,select_kbest__k,500.0
+Random Forest,model__n_estimators,250.0
+Random Forest,model__min_samples_split,2.0
+Random Forest,model__max_features,0.5
+Random Forest,model__max_depth,15.0
+XGBoost,variance__threshold,0.0
+XGBoost,select_kbest__k,500.0
+XGBoost,model__subsample,0.8
+XGBoost,model__n_estimators,150.0
+XGBoost,model__max_depth,3.0
+XGBoost,model__learning_rate,0.03
+XGBoost,model__colsample_bytree,0.8
