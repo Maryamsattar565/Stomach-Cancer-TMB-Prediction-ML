@@ -276,4 +276,8 @@ Gao et al. 2013) when using this analysis.
 
 ## License
 
-Add a license (e.g., MIT) before making this repository public.
+MIT License
+
+Copyright (c) 2026 Maryamsattar565
+
+
